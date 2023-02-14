@@ -1,11 +1,24 @@
 ## Sales Insights Data Analysis Project
 
-### Instructions to setup mysql on your local computer
+ I am happy with the outcome of my project, and would like to thank codebasics, Dhaval Patel Sir & Hemanand Vadivel Sir for organizing this challenge as well as providing guidance along the way. It was a great learning experience, and I look forward to participating in future challenges!
+ 
+##Problem statement of Sales insight Project:
 
-1. Follow step in this video to install mysql on your local computer
-https://www.youtube.com/watch?v=WuBcTJnIuzo
+##Objective:
 
-1. SQL database dump is in db_dump.sql file above. Download `db_dump.sql` file to your local computer and import it as per instructions given in the tutorial video
+ 1.A company that supplies computer hardware and peripherals to many clients across India.
+2.The sales director is facing a lot of challenges. The marketing is growing dynamically, he is struggling to keep track of the sales. He needs more accurate 	insights about the company sales and then makes the necessary decisions.
+ 
+ ##Solution:
+ 
+ Its cover project planning and data discovery aspect of our sales insights data analysis project. Once sales directory of atliQ hardware(one of the company) 	     has decided to invest in data analysis project they will do a meeting with IT director, data analytics team to come up with a plan. They will use AIMS grid 	 to define purpose and success criteria of this project.
+ 
+##Ideas:
+
+1.Create a simple and informative dashboard about the company sales.
+
+2.I used SQL queries in MySQL Workbench to look into the data and Power BI for ETL and Visualizations to create the insights dashboard.
+
 
 ### Data Analysis Using SQL
 
@@ -55,4 +68,6 @@ Data Analysis Using Power BI
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
 
+##Here with I have attached my dashboard images:
+![image](https://user-images.githubusercontent.com/118765347/218852616-c949e554-d329-43ff-8a69-3094cb5da94c.png)
 
