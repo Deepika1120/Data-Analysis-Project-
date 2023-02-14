@@ -68,6 +68,7 @@ Data Analysis Using Power BI
 `= Table.AddColumn(#"Filtered Rows", "norm_amount", each if [currency] = "USD" or [currency] ="USD#(cr)" then [sales_amount]*75 else [sales_amount], type any)`
 
 
-##Here with I have attached my dashboard images:
+##Here with I have attached my dashboard image:
+
 ![image](https://user-images.githubusercontent.com/118765347/218852616-c949e554-d329-43ff-8a69-3094cb5da94c.png)
 
