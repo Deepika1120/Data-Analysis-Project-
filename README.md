@@ -67,6 +67,7 @@ Data Analysis Using Power BI
 
 ![image](https://user-images.githubusercontent.com/118765347/218852616-c949e554-d329-43ff-8a69-3094cb5da94c.png)
 
+#Coclusion:
 
 A dashboard is used for presenting a real-time status of business, monitoring business performance in
 
