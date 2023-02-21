@@ -67,3 +67,13 @@ Data Analysis Using Power BI
 
 ![image](https://user-images.githubusercontent.com/118765347/218852616-c949e554-d329-43ff-8a69-3094cb5da94c.png)
 
+
+A dashboard is used for presenting a real-time status of business, monitoring business performance in
+
+organizations. An effective dashboard is able to facilitate decision-making process and to quickly trigger actions
+
+by delivering information to end users. In this project, a sales department, facing a large amount of data every
+
+day, requires a visual communication from data to information. To achieve a better data visualization,
+
+Microsoft power BI is integrated to visualize and display sales data through dashboard
