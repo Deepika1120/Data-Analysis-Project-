@@ -11,7 +11,7 @@
  
  ##Solution:
  
- Its cover project planning and data discovery aspect of our sales insights data analysis project. Once sales directory of atliQ hardware(one of the company) 	     has decided to invest in data analysis project they will do a meeting with IT director, data analytics team to come up with a plan. They will use AIMS grid 	 to define purpose and success criteria of this project.
+ Its cover project planning and data discovery aspect of our sales insights data analysis project. Once sales directory of atliQ hardware(one of the company) 	     has decided to invest in data analysis project they will do a meeting with IT director, data analytics team to come up with a plan. 
  
 ##Ideas:
 
