@@ -34,7 +34,7 @@
 
     `SELECT * FROM transactions where market_code='Mark001';`
 
-1. Show distrinct product codes that were sold in chennai
+1. Show distinct product codes that were sold in chennai
 
     `SELECT distinct product_code FROM transactions where market_code='Mark001';`
 
