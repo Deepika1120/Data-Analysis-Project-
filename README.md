@@ -1,6 +1,6 @@
 ## Sales Insights Data Analysis Project
 
- I am happy with the outcome of my project, and would like to thank codebasics, Dhaval Patel Sir & Hemanand Vadivel Sir for organizing this challenge as well as providing guidance along the way. It was a great learning experience, and I look forward to participating in future challenges!
+ I am happy with the outcome of my project, and would like to thank codebasics team for organizing this challenge. It was a great learning experience, and I look forward to participating in future challenges!
  
 ##Problem statement of Sales insight Project:
 
